@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4200C188-66CE-46A1-B489-87F1579D643D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstantSupportApp/InstantSupportApp.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="InstantSupportApp/InstantSupportApp.iOS/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InstantSupportApp.Droid PreferredExecutionTarget="Android.api23" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InstantSupportApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6FF711F-F195-4614-8F6C-BFFB737195C3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

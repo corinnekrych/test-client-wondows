@@ -1,0 +1,2 @@
+C:\Users\varatvis\Desktop\InstantSupportAppSampleProject\InstantSupportApp\InstantSupportApp.UWP\InstantSupportApp.UWP.csproj;x86
+C:\Users\varatvis\Desktop\InstantSupportAppSampleProject\InstantSupportApp\InstantSupportApp\InstantSupportApp.csproj;neutral
